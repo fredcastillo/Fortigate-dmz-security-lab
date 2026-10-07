@@ -64,6 +64,3 @@ La DMZ no dispone de salida HTTPS abierta hacia destinos externos no autorizados
 
 ![Internet arbitrario bloqueado](../images/04-tests/18-test-dmz-internet-blocked.png)
 
-## Nota de precisión
-
-La evidencia de actualización corresponde a DB-SERVER. No se afirma que los otros dos servidores hayan completado una actualización independiente cuando no existe una captura final equivalente.
