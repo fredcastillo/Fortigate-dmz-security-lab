@@ -13,9 +13,11 @@
 > **Author:** Fred Sneyder Castillo Apolinar  **Student ID:** 2025-2175  **Program:** Information Security Technologist — ITLA  **Platform:** GNS3 + GNS3 VM + FortiGate-VM64-KVM  **FortiOS:** 7.0.9 build 0444
 
 > ## 🎥 Demonstration Video
-> **[Open the video material →](video/VIDEO.md)**
->
-> Insert the final YouTube URL in `video/VIDEO.md` before publishing the repository.
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=iKMu1Q_3kfY">
+    <img src="https://img.youtube.com/vi/iKMu1Q_3kfY/maxresdefault.jpg" alt="Ver video" width="700">
+  </a>
+</div>
 
 ## Purpose
 
