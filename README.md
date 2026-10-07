@@ -81,9 +81,9 @@ La documentación utiliza referencias Markdown reales. Cuando coloques los 18 PN
 
 ### Evidencias de arquitectura
 
-![02-topologia-lan-vlans.png](images/01-topologia/02-topologia-lan-vlans.png)
+![02-topologia-lan-vlans.png](images/01-topology/02-topologia-lan-vlans.png)
 
-![03-topologia-dmz-servidores.png](images/01-topologia/03-topologia-dmz-servidores.png)
+![03-topologia-dmz-servidores.png](images/01-topology/03-topologia-dmz-servidores.png)
 
 ### Evidencias de configuración
 
