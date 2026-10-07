@@ -1,10 +1,16 @@
-# FortiGate DMZ Security Lab
+<h1 align="center">🛡️ Laboratorio de Seguridad DMZ con FortiGate</h1>
 
-**Autor:** Fred Sneyder Castillo Apolinar  \
-**Matrícula:** 2025-2175  \
-**Programa:** Tecnólogo en Seguridad Informática — ITLA  \
-**Plataforma:** GNS3 + GNS3 VM + FortiGate-VM64-KVM  \
-**FortiOS:** 7.0.9 build 0444
+<p align="center">
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Laboratorio-GNS3-7d5fff?style=for-the-badge" alt="GNS3"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Firewall-FortiGate-e11d48?style=for-the-badge" alt="FortiGate"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/FortiOS-v7.0.9-EE3124?style=for-the-badge" alt="FortiOS"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Arquitectura-DMZ%20%2B%20VLANs-2D72D9?style=for-the-badge" alt="Arquitectura"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Políticas-SSH%20Restringido%20%7C%20DMZ%20sin%20Internet-FF6F00?style=for-the-badge" alt="Políticas"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Servidores-Caja%20%7C%20Inventario%20%7C%20DB-9C27B0?style=for-the-badge" alt="Servidores"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge" alt="Estado"></a>
+</p>
+
+> **Autor:** Fred Sneyder Castillo Apolinar  \ **Matrícula:** 2025-2175  \ **Programa:** Tecnólogo en Seguridad Informática — ITLA  \ **Plataforma:** GNS3 + GNS3 VM + FortiGate-VM64-KVM  \ **FortiOS:** 7.0.9 build 0444
 
 > ## 🎥 Video demostrativo
 > **[Abrir el material del video →](video/VIDEO.md)**
@@ -224,8 +230,13 @@ El resultado esperado es:
 
 ---
 
-## Autor
+## 👨‍💻 Autor
 
-**Fred Sneyder Castillo Apolinar**  \  
-**2025-2175**  \  
-Tecnólogo en Seguridad Informática — ITLA
+**Fred Castillo**  
+*Estudiante de Tecnólogo en Seguridad Informática* 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fred%20Castillo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredcastillo11/)
+[![GitHub](https://img.shields.io/badge/GitHub-fredcastillo-100000?style=for-the-badge&logo=github)](https://github.com/fredcastillo)
+
+---
+
