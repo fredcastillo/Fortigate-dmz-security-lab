@@ -4,21 +4,21 @@
 
 ## 01 — Topología general del laboratorio en GNS3
 
-![01-topologia-general.png](../images/01-topologia/01-topologia-general.png)
+![01-topologia-general.png](../images/01-topology/01-topologia-general.png)
 
 **Archivo:** `01-topologia-general.png`  
 **Qué demuestra:** Vista completa de FortiGate, switches, VLANs y servidores.
 
 ## 02 — Segmentación LAN y VLANs
 
-![02-topologia-lan-vlans.png](../images/01-topologia/02-topologia-lan-vlans.png)
+![02-topologia-lan-vlans.png](../images/01-topology/02-topologia-lan-vlans.png)
 
 **Archivo:** `02-topologia-lan-vlans.png`  
 **Qué demuestra:** Separación visual de VLAN 10 y VLAN 20 y su conexión con el FortiGate.
 
 ## 03 — DMZ y servidores
 
-![03-topologia-dmz-servidores.png](../images/01-topologia/03-topologia-dmz-servidores.png)
+![03-topologia-dmz-servidores.png](../images/01-topology/03-topologia-dmz-servidores.png)
 
 **Archivo:** `03-topologia-dmz-servidores.png`  
 **Qué demuestra:** Ubicación de WEB-CAJA, WEB-INVENTARIO y DB-SERVER en el segmento de servidores.
