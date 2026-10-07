@@ -35,7 +35,3 @@ La consigna exige que la configuración y demostración funcional del FortiGate 
 ![Vista de interfaces](../images/02-fortigate/04-fortigate-interfaces.png)
 
 La evidencia visual de las interfaces se complementa con la evidencia de políticas en `../images/02-fortigate/06-fortigate-firewall-policies.png`.
-
-## Resultado esperado
-
-El resultado no es únicamente conectividad. La infraestructura debe mostrar que los flujos permitidos funcionan y que los flujos restringidos son realmente bloqueados.
