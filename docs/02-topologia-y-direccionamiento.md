@@ -2,13 +2,13 @@
 
 ## Vista general
 
-![Topología general](../images/01-topologia/01-topologia-general.png)
+![Topología general](../images/01-topology/01-topologia-general.png)
 
 La vista completa del laboratorio se complementa con:
 
-![LAN y VLANs](../images/01-topologia/02-topologia-lan-vlans.png)
+![LAN y VLANs](../images/01-topology/02-topologia-lan-vlans.png)
 
-![DMZ y servidores](../images/01-topologia/03-topologia-dmz-servidores.png)
+![DMZ y servidores](../images/01-topology/03-topologia-dmz-servidores.png)
 
 ## Componentes
 
