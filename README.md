@@ -62,7 +62,7 @@ La práctica cubre:
 
 ## 3. Arquitectura
 
-![Topología general](images/01-topologia/01-topologia-general.png)
+![Topología general](images/01-topology/01-topologia-general.png)
 
 La explicación completa de la topología, direccionamiento y flujos está en [`docs/02-topologia-y-direccionamiento.md`](docs/02-topologia-y-direccionamiento.md).
 
