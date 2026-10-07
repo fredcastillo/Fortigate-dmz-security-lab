@@ -1,0 +1,19 @@
+flowchart TB
+    INET((Internet / NAT1))
+    FG[FortiGate-VM64-KVM\nFortiOS 7.0.9 build 0444]
+    SWA[SW-A\nUsuarios]
+    SWB[SW-B\nDMZ]
+    V10[VLAN 10]
+    V20[VLAN 20]
+    CAJA[WEB-CAJA\n20.21.75.130]
+    INV[WEB-INVENTARIO\n20.21.75.131]
+    DB[DB-SERVER\n20.21.75.132]
+
+    INET --> FG
+    FG --> SWA
+    FG --> SWB
+    SWA --> V10
+    SWA --> V20
+    SWB --> CAJA
+    SWB --> INV
+    SWB --> DB

@@ -1,0 +1,7 @@
+flowchart LR
+    V10[VLAN 10] -->|HTTPS permitido| CAJA[WEB-CAJA]
+    V10 -->|HTTPS bloqueado| INV[WEB-INVENTARIO]
+    V10 -->|SSH bloqueado| DB[DB-SERVER]
+    V20[VLAN 20] -->|SSH permitido| DB
+    DMZ[DMZ] -->|Endpoints de actualización| UPD[Update endpoints]
+    DMZ -->|HTTPS arbitrario bloqueado| EXT[Internet externo]
