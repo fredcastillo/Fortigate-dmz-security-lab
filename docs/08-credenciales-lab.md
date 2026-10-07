@@ -1,4 +1,4 @@
-# 9. Credenciales de laboratorio
+# 8. Credenciales de laboratorio
 
 ## SSH
 
