@@ -220,7 +220,6 @@ El resultado esperado es:
 - [`docs/05-servidores-y-servicios.md`](docs/05-servidores-y-servicios.md)
 - [`docs/06-evidencias.md`](docs/06-evidencias.md)
 - [`docs/07-checklist-requisitos.md`](docs/07-checklist-requisitos.md)
-- [`docs/08-guion-video.md`](docs/08-guion-video.md)
 - [`docs/09-credenciales-lab.md`](docs/09-credenciales-lab.md)
 
 ---
