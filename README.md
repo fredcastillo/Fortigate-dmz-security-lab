@@ -13,9 +13,13 @@
 > **Autor:** Fred Sneyder Castillo Apolinar  \ **Matrícula:** 2025-2175  \ **Programa:** Tecnólogo en Seguridad Informática — ITLA  \ **Plataforma:** GNS3 + GNS3 VM + FortiGate-VM64-KVM  \ **FortiOS:** 7.0.9 build 0444
 
 > ## 🎥 Video demostrativo
-> **[Abrir el material del video →](video/VIDEO.md)**
->
-> El enlace final de YouTube debe colocarse en `video/VIDEO.md` y en este bloque antes de publicar el repositorio.
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=iKMu1Q_3kfY">
+    <img src="https://img.youtube.com/vi/iKMu1Q_3kfY/mqdefault.jpg" alt="Ver video" width="700">
+  </a>
+  <br>
+  <strong>▶ Haz clic para ver el video</strong>
+</div>
 
 ---
 
