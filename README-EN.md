@@ -1,6 +1,16 @@
-# FortiGate DMZ Security Lab
+<h1 align="center">🛡️ FortiGate DMZ Security Lab</h1>
 
-**Author:** Fred Sneyder Castillo Apolinar  **Student ID:** 2025-2175  **Program:** Information Security Technologist — ITLA  **Platform:** GNS3 + GNS3 VM + FortiGate-VM64-KVM  **FortiOS:** 7.0.9 build 0444
+<p align="center">
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Lab-GNS3-7d5fff?style=for-the-badge" alt="GNS3"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Firewall-FortiGate-e11d48?style=for-the-badge" alt="FortiGate"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/FortiOS-v7.0.9-EE3124?style=for-the-badge" alt="FortiOS"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Architecture-DMZ%20%2B%20VLANs-2D72D9?style=for-the-badge" alt="Architecture"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Policies-SSH%20Restricted%20%7C%20No%20DMZ%20Internet-FF6F00?style=for-the-badge" alt="Policies"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Servers-Caja%20%7C%20Inventario%20%7C%20DB-9C27B0?style=for-the-badge" alt="Servers"></a>
+  <a href="https://github.com/fredcastillo/fortigate-dmz-security-lab"><img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status"></a>
+</p>
+
+> **Author:** Fred Sneyder Castillo Apolinar  **Student ID:** 2025-2175  **Program:** Information Security Technologist — ITLA  **Platform:** GNS3 + GNS3 VM + FortiGate-VM64-KVM  **FortiOS:** 7.0.9 build 0444
 
 > ## 🎥 Demonstration Video
 > **[Open the video material →](video/VIDEO.md)**
@@ -17,7 +27,7 @@ The lab demonstrates DHCP, VLAN segmentation, server separation, firewall polici
 
 The The 18 screenshots are stored under `images/`, divided into four folders by evidence category. Documentation files under `docs/` reference them using `../images/<filename>.png`, so GitHub renders them automatically when the PNGs are present.
 
-![01-topologia-general.png](images/01-topologia/01-topologia-general.png)
+![01-topologia-general.png](images/01-topology/01-topologia-general.png)
 
 See the full evidence index: [`docs/06-evidencias.md`](docs/06-evidencias.md).
 
