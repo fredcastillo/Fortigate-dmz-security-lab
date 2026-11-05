@@ -40,35 +40,7 @@ La práctica cubre:
 
 ---
 
-## 2. Cumplimiento de la asignación
-
-| Requisito | Estado | Evidencia / referencia |
-|---|---|---|
-| FortiGate | ✅ | `04`, `06` |
-| Configuración funcional del FortiGate por GUI | ✅ | `04`, `05`, `06`, `07`, `08` |
-| Servidores en DMZ | ✅ | `03`, `10` |
-| Políticas contra fuga de tráfico hacia LAN | ✅ | `06` |
-| DMZ sin Internet abierto | ✅ | `18` |
-| Solo endpoints de actualización autorizados | ✅ configuración / ✅ validación en DB-SERVER | `07`, `17` |
-| VLAN 20 como red autorizada para SSH | ✅ | `13` y `14` |
-| VLAN 10 bloqueada contra Sistema de Inventario | ✅ | `16` |
-| Violación de política visible para el usuario | ✅ | `16` |
-| Dos switches | ✅ | `09`, `10` |
-| VLAN + seguridad básica | ✅ | `09`, `10` |
-| WEB-CAJA | ✅ | `15` |
-| WEB-INVENTARIO | ✅ | `16` |
-| DB-SERVER | ✅ | `13`, `17` |
-| DHCP | ✅ | `05`, `11` |
-| Documentación profesional | ✅ | `docs/` |
-| Imágenes | ✅ preparadas para insertar | `images/` |
-| Diagramas | ✅ | `diagrams/` |
-| Scripts | ✅ | `scripts/` |
-| Running-configs | ✅ estructura preparada | `configs/running-configs/` |
-| Video al principio del repositorio | ✅ enlace desde README | `video/VIDEO.md` |
-
----
-
-## 3. Arquitectura
+## 2. Arquitectura
 
 ![Topología general](images/01-topology/01-topologia-general.png)
 
@@ -81,7 +53,7 @@ Diagramas editables:
 
 ---
 
-## 4. Evidencias visuales
+## 3. Evidencias visuales
 
 La documentación utiliza referencias Markdown reales. Cuando coloques los 18 PNG en `images/`, distribuidos en cuatro carpetas con los nombres acordados, GitHub los renderizará automáticamente dentro de los documentos.
 
@@ -111,7 +83,7 @@ La documentación utiliza referencias Markdown reales. Cuando coloques los 18 PN
 
 ---
 
-## 5. Direccionamiento de trabajo
+## 4. Direccionamiento de trabajo
 
 | Segmento / equipo | Dirección | Función |
 |---|---|---|
@@ -127,7 +99,7 @@ Los valores se documentan según las pruebas realizadas. Para una auditoría pos
 
 ---
 
-## 6. Políticas de seguridad demostradas
+## 5. Políticas de seguridad demostradas
 
 **VLAN 10 → WEB-CAJA:** permitido para el servicio web requerido. Evidencia: `15-test-vlan10-web-caja-allowed.png`.
 
@@ -143,7 +115,7 @@ Los valores se documentan según las pruebas realizadas. Para una auditoría pos
 
 ---
 
-## 7. Scripts y configuraciones
+## 6. Scripts y configuraciones
 
 ### Scripts
 
@@ -159,7 +131,7 @@ La carpeta `configs/` está destinada a guardar las salidas finales reales de lo
 
 ---
 
-## 8. Credenciales de laboratorio
+## 7. Credenciales de laboratorio
 
 ```text
 Usuario SSH:     labssh
@@ -172,7 +144,7 @@ Detalle: [`docs/09-credenciales-lab.md`](docs/09-credenciales-lab.md).
 
 ---
 
-## 9. Estructura del repositorio
+## 8. Estructura del repositorio
 
 ```text
 .
@@ -201,7 +173,7 @@ Detalle: [`docs/09-credenciales-lab.md`](docs/09-credenciales-lab.md).
 
 ---
 
-## 10. Validación de evidencias
+## 9. Validación de evidencias
 
 Cuando hayas colocado las 18 capturas, ejecuta desde la raíz:
 
@@ -218,7 +190,7 @@ El resultado esperado es:
 
 ---
 
-## 11. Documentación
+## 10. Documentación
 
 - [`docs/00-indice-entrega.md`](docs/00-indice-entrega.md)
 - [`docs/01-proposito-y-alcance.md`](docs/01-proposito-y-alcance.md)
